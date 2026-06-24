@@ -25,9 +25,7 @@
 * [Usage State Flow](#-usage-state-flow)
 * [Roadmap](#-roadmap)
 * [Contributing](#-contributing)
-* [License](#-license)
-* [Contact](#-contact)
-* [Acknowledgments](#-acknowledgments)
+
 
 ---
 
